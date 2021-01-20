@@ -1,4 +1,4 @@
-# Poetry Generation
+# Poetry Generator
 
 ## Description
 This is a Python Tensorflow package for poetry generation.
